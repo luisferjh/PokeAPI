@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/luisferjh/PokeAPI/issues"
   },
-  "homepage": "https://github.com/luisferjh/PokeAPI#readme"
+  "homepage": "https://github.com/luisferjh/PokeAPI#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.10.0"
+  }
 }
