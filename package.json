@@ -1,0 +1,19 @@
+{
+  "name": "pokeapilf",
+  "version": "1.0.0",
+  "description": "find any existing pokemon and know its characteristics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisferjh/PokeAPI.git"
+  },
+  "author": "luis jimenez luisjimenez_h@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisferjh/PokeAPI/issues"
+  },
+  "homepage": "https://github.com/luisferjh/PokeAPI#readme"
+}
